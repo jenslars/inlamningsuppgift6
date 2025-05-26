@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 Install React:
 ```bash
-npm install next react react-dom
+npm install
 ```
 
 First, run the development server:
